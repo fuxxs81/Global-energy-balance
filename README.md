@@ -1,6 +1,6 @@
-# Global energy balance
 
-![](./data/readme_pic.png)
+
+![](./data/readme_pic1.png)
 
 <!-- TABLE OF CONTENTS -->
 
