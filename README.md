@@ -221,8 +221,6 @@ The balance of energy is crucial for our future, and it's up to us to tip the sc
 
 ### Built with
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 * [Jupyter Notebook](https://jupyter.org)
 * [Python and Python libraries](https://www.python.org)
 * [Tableau](https://www.tableau.com/)
