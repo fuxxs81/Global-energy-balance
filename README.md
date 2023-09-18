@@ -28,6 +28,8 @@ The analysis delves into the worldwide energy consumption trends and the consequ
 
 ### Slide deck details
 
+### 
+
 This repo is includes all raw and final files of my graduation project "Global energy consumption and the impact of political decisions on the energy balance".
 
 ##### 1
