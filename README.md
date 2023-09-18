@@ -14,7 +14,7 @@
 
 * [Built with](#built-with)
 
-* Slides on Tableau public
+* [Slides on Tableau public](#tableau-public)
 
 * [Sources](#sources)
 
