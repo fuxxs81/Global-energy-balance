@@ -12,7 +12,7 @@
 
 * [Sources](#sources)
 
-* [KPI Description and Abbreviations](#KPI -Description-and-Abbreviations)
+* [KPI Description and Abbreviations](#KPI-Description-and-Abbreviations)
 
 * [Built With](#built-with)
 
