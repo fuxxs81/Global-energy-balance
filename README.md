@@ -10,9 +10,11 @@
 
 * [Slide deck details](#slide-deck-details)
 
-* [KPI Description and Abbreviations](#KPI-Description-and-Abbreviations)
+* [KPI description and abbreviations](#KPI-Description-and-Abbreviations)
 
-* [Built With](#built-with)
+* [Built with](#built-with)
+
+* Slides on Tableau public
 
 * [Sources](#sources)
 
@@ -217,19 +219,18 @@ The balance of energy is crucial for our future, and it's up to us to tip the sc
 | wind_elec_per_capita                    | Per capita electricity consumption from wind, measured in kilowatt-hours |
 | wind_energy_per_capita                  | Per capita primary energy consumption from wind, measured in kilowatt-hours |
 
-### Built With
+### Built with
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
 * [Jupyter Notebook](https://jupyter.org)
-
-* [Python](https://www.python.org)
-
+* [Python and Python libraries](https://www.python.org)
 * [Tableau](https://www.tableau.com/)
-
-  * Find it on tableau public: [Global energy balance](https://public.tableau.com/app/profile/sven.deiwicks/viz/GlobalEnergyBalance/Story1)  
-
 * [Canva](https://www.canva.com)
+
+### Tableau public
+
+The visualizations were built using Tableau Server and can be found here -> [Global energy balance](https://public.tableau.com/app/profile/sven.deiwicks/viz/GlobalEnergyBalance/Story1)  
 
 ### Sources
 
