@@ -10,27 +10,23 @@
 
 * [Slide deck details](#slide-deck-details)
 
-* [Sources](#sources)
-
 * [KPI Description and Abbreviations](#KPI-Description-and-Abbreviations)
 
 * [Built With](#built-with)
 
+* [Sources](#sources)
+
+* [License](#license)
+
+* [Contact](#contact)
+
   
-
-
 
 ### About the project
 
 The analysis delves into the worldwide energy consumption trends and the consequences of political choices on energy equilibrium. It provides an overview about energy consumption in total, shows the status of green energy, and analyze risks of political decisions. 
 
-
-
 ### Slide deck details
-
-### 
-
-This repo is includes all raw and final files of my graduation project "Global energy consumption and the impact of political decisions on the energy balance".
 
 ##### 1
 
@@ -92,7 +88,6 @@ USA rise from the biggest importeur of those energy sources to the biggest expor
  "As we near the end of our journey, I hope this presentation has shed some light on where we stand, and perhaps where we might be headed. 
 
 The balance of energy is crucial for our future, and it's up to us to tip the scales in the right direction."
-
 
 
 ### KPI Description and Abbreviations
@@ -222,15 +217,6 @@ The balance of energy is crucial for our future, and it's up to us to tip the sc
 | wind_elec_per_capita                    | Per capita electricity consumption from wind, measured in kilowatt-hours |
 | wind_energy_per_capita                  | Per capita primary energy consumption from wind, measured in kilowatt-hours |
 
-
-
-### Sources
-
-- https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022
-- https://ember-climate.org/countries-and-regions/
-
-
-
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
@@ -245,16 +231,17 @@ This section should list any major frameworks that you built your project using.
 
 * [Canva](https://www.canva.com)
 
-  
+### Sources
+
+- https://www.kaggle.com/datasets/belayethossainds/renewable-energy-world-wide-19652022
+- https://ember-climate.org/countries-and-regions/
 
 ### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-
 ### Contact
 
-Your Name - [@linkedinr](https://www.linkedin.com/in/svendeiwicks) - sven.deiwicks@gmail.com
+Your Name - [@linkedin](https://www.linkedin.com/in/svendeiwicks) - sven.deiwicks@gmail.com
 
 Project Link: [https://github.com/fuxxs81/Global-energy-balance](https://github.com/fuxxs81/Global-energy-balance)
