@@ -8,7 +8,7 @@
 
 * [About the Project](#about-the-project)
 
-* [Slide deck details](#Slide deck details)
+* [Slide deck details](#slide-deck-details)
 
 * [Sources](#sources)
 
